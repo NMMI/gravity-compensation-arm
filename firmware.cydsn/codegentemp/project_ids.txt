@@ -1,0 +1,6 @@
+C:\Users\MattiaCP\Desktop\FIRMWARES\hand_firmware_micro_adv_joystick\firmware.cydsn\firmware.cyprj|fbfc62ec-a3d7-44ed-b863-46b1d49ebbc7
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|cf257c8b-7077-4bf0-8c3f-a35bc560c46b
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\default\CyReferenceLibrary\CyReferenceLibrary.cylib\CyReferenceLibrary.cyprj|34bc97a5-5afa-46d2-85b9-c62ace946330
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|00815474-b57b-4ee6-86ad-5a0584a08a23
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|eefe83fe-e12a-422a-98f3-7d6e3d8738ff
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|35d6a387-f101-4860-b930-06808fbd6412
